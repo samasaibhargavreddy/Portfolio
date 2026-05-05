@@ -79,13 +79,4 @@ The portfolio includes:
 
 This project is open source and available under the MIT License.
 
-## Contact
-
-For inquiries or feedback, please reach out through the contact form or visit:
-- **Email**: samasaibhargavreddy@gmail.com
-- **Phone**: +1 (816) 723-2369
-- **Location**: New Castle, Delaware, USA
-
----
-
 Designed & Built with ❤️ using React
