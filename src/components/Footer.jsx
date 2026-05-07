@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="footer-content">
           <div className="footer-section">
             <h3>Sai Bhargav Reddy Sama</h3>
-            <p>Software Development Engineer | Full-Stack Developer</p>
+            <p>Frontend Developer</p>
           </div>
           
           <div className="footer-section">
@@ -28,7 +28,7 @@ export default function Footer() {
           <div className="footer-section">
             <h4>Follow Me</h4>
             <div className="footer-socials">
-              <a href="https://www.linkedin.com/in/samasaibhargavreddy/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/saibhargavreddy6/" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin />
               </a>
               <a href="https://github.com/samasaibhargavreddy" target="_blank" rel="noopener noreferrer">

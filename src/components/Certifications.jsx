@@ -10,10 +10,10 @@ const certifications = [
     description: 'Professional certification in building cross-platform applications using Angular framework'
   },
   {
-    title: 'Web app using microservices with Kubernetes',
-    issuer: 'Google for Dev',
-    icon: FaGoogle,
-    description: 'Advanced certification in microservices architecture and Kubernetes orchestration'
+    title: 'React JS Certified Developer',
+    issuer: 'Great Learning',
+    icon: 'great-learning.svg',
+    description: 'Certification in React.js development, covering component-based architecture, state management, and frontend best practices'
   }
 ]
 

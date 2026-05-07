@@ -3,16 +3,12 @@ import './Skills.css'
 
 const skillsData = [
   {
-    category: 'Programming Languages',
-    skills: ['C++', 'Java', 'SQL', 'Python', 'Kotlin', 'TypeScript']
-  },
-  {
     category: 'Frontend Technologies',
-    skills: ['React.js', 'Angular', 'Vue.js', 'HTML5', 'CSS3', 'JavaScript', 'Bootstrap', 'Tailwind CSS']
+    skills: ['React.js', 'Angular', 'Vue.js', 'HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'Bootstrap', 'Tailwind CSS']
   },
   {
-    category: 'Backend & Frameworks',
-    skills: ['Spring', 'Spring Boot', 'Node.js', 'Express.js', 'Hibernate', 'FastAPI', 'Flask']
+    category: 'Programming Languages',
+    skills: [ 'JavaScript', 'TypeScript','C++', 'Java', 'SQL', 'Python']
   },
   {
     category: 'Databases',

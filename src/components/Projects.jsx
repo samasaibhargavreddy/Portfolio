@@ -28,16 +28,17 @@ const projects = [
     github: 'https://github.com/samasaibhargavreddy/ChatBot'
   },
   {
-    title: 'Music Application',
-    description: 'A full-featured music web application allowing users to explore, manage music tracks, create playlists, and enjoy seamless playback with an intuitive and responsive user interface.',
+    title: 'Shop Hub',
+    description: 'A full-featured e-commerce web application allowing users to explore products, manage their shopping cart, and complete purchases with an intuitive and responsive user interface.',
     tech: ['JavaScript', 'React.js', 'Spring Framework', 'HTML5 Audio API', 'CSS3', 'Responsive Design'],
     highlights: [
       'Dynamic client-side behavior',
       'State management',
       'CSS animations',
-      'Cross-browser compatibility'
+      'Cross-browser compatibility',
+      'React'
     ],
-    github: 'https://github.com/samasaibhargavreddy/Music-Application'
+    github: 'https://github.com/samasaibhargavreddy/shophub.git'
   }
 ]
 

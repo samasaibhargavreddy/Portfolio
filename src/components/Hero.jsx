@@ -46,7 +46,7 @@ export default function Hero() {
             <h1 className="hero-title">
               <span className="red-accent">SAI BHARGAV REDDY</span>
               <br />
-              <span className="hero-subtitle">Software Development Engineer</span>
+              <span className="hero-subtitle">Frontend Developer</span>
             </h1>
             <p className="hero-description">
               <strong>Building the bridge between creativity and technology through intelligent code</strong>
@@ -54,15 +54,15 @@ export default function Hero() {
             <div className="hero-info">
               <div className="info-item">
                 <FaMapMarkerAlt className="info-icon" />
-                <span>New Castle, DE</span>
+                <span>Dallas, Texas, USA</span>
               </div>
               <div className="info-item">
                 <FaPhone className="info-icon" />
-                <span>816-723-2369</span>
+                <span>+1 (302) 607-3319</span>
               </div>
               <div className="info-item">
                 <FaEnvelope className="info-icon" />
-                <span>samasaibhargavreddy@gmail.com</span>
+                <span>bhargavsama6@gmail.com</span>
               </div>
             </div>
             <div className="hero-cta">
@@ -70,18 +70,18 @@ export default function Hero() {
               <a href="#projects" className="cta-button secondary">View My Work</a>
             </div>
             <div className="hero-socials">
-              <a href="https://www.linkedin.com/in/samasaibhargavreddy/" target="_blank" rel="noopener noreferrer" className="social-link">
+              <a href="https://www.linkedin.com/in/saibhargavreddy6/" target="_blank" rel="noopener noreferrer" className="social-link">
                 <FaLinkedin />
               </a>
               <a href="https://github.com/samasaibhargavreddy" target="_blank" rel="noopener noreferrer" className="social-link">
                 <FaGithub />
               </a>
-              <a href="mailto:samasaibhargavreddy@gmail.com" className="social-link">
+              <a href="mailto:bhargavsama6@gmail.com" className="social-link">
                 <FaEnvelope />
               </a>
             </div>
           </div>
-          <div className="hero-car">
+          <div className="hero-car">s
             <div className="profile-picture">
               <img src="/profile.jpg" alt="Sai Bhargav Reddy" className="profile-img" onError={(e) => {e.target.style.display='none'; e.target.nextSibling.style.display='flex';}} />
               <div className="profile-placeholder-box" style={{display: 'none'}}>

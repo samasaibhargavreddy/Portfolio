@@ -1,6 +1,5 @@
 # Portfolio - Red Car Theme 🏎️
 
-A modern, professional portfolio website built with React and Vite, featuring a sleek red car-themed design. This portfolio showcases the professional experience, skills, and projects of a Software Development Engineer.
 
 ## Features
 
@@ -30,21 +29,6 @@ A modern, professional portfolio website built with React and Vite, featuring a 
 - **React Icons** - Icon library
 - **JavaScript ES6+** - Modern JavaScript
 
-## Installation
-
-```bash
-# Clone or download the project
-cd portfolio-redcar
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
 
 ## Customization
 
@@ -78,5 +62,13 @@ The portfolio includes:
 ## License
 
 This project is open source and available under the MIT License.
+
+## Contact
+
+For inquiries or feedback, please reach out through the contact form or visit:
+- **Email**: bhargavsama6@gmail.com
+- **Location**: Dallas, Texas, USA
+
+---
 
 Designed & Built with ❤️ using React
