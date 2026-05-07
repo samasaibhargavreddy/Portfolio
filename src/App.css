@@ -1,7 +1,7 @@
 .app {
   min-height: 100vh;
-  background: linear-gradient(135deg, #0f0f0f 0%, #1a1a1a 100%);
-  color: #fff;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e8ecf1 100%);
+  color: #2d3436;
   position: relative;
   overflow-x: hidden;
 }
@@ -14,9 +14,9 @@
   width: 100%;
   height: 100%;
   background: 
-    radial-gradient(circle at 20% 20%, rgba(211, 47, 47, 0.03) 0%, transparent 50%),
-    radial-gradient(circle at 80% 80%, rgba(255, 107, 107, 0.03) 0%, transparent 50%),
-    radial-gradient(circle at 40% 60%, rgba(211, 47, 47, 0.02) 0%, transparent 40%);
+    radial-gradient(circle at 20% 20%, rgba(93, 173, 226, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(25, 118, 210, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 40% 60%, rgba(93, 173, 226, 0.02) 0%, transparent 40%);
   pointer-events: none;
   z-index: 0;
 }
@@ -67,20 +67,20 @@
   }
 }
 
-/* Red Car Theme Accent */
+/* Blue Theme Accent */
 .red-accent {
-  color: #d32f2f;
+  color: #5dade2;
 }
 
 .red-border {
-  border-color: #d32f2f;
+  border-color: #5dade2;
 }
 
 .red-bg {
-  background-color: #d32f2f;
+  background-color: #5dade2;
 }
 
 .red-hover:hover {
-  color: #ff6b6b;
+  color: #1976d2;
   transition: color 0.3s ease;
 }

@@ -1,6 +1,6 @@
 .experience {
   padding: 80px 0;
-  background: linear-gradient(135deg, rgba(15, 15, 15, 1) 0%, rgba(25, 25, 25, 0.8) 100%);
+  background: linear-gradient(135deg, rgba(248, 249, 250, 1) 0%, rgba(232, 236, 241, 0.8) 100%);
   position: relative;
   overflow: hidden;
 }
@@ -12,7 +12,7 @@
   left: -50px;
   width: 200px;
   height: 200px;
-  background: linear-gradient(135deg, rgba(211, 47, 47, 0.15), transparent);
+  background: linear-gradient(135deg, rgba(93, 173, 226, 0.15), transparent);
   transform: rotate(45deg);
   animation: floatShape 10s ease-in-out infinite;
 }
@@ -24,7 +24,7 @@
   right: -80px;
   width: 250px;
   height: 250px;
-  border: 20px solid rgba(255, 107, 107, 0.1);
+  border: 20px solid rgba(25, 118, 210, 0.1);
   border-radius: 50%;
   animation: rotateShape 15s linear infinite;
 }
@@ -51,7 +51,7 @@
   display: block;
   width: 80px;
   height: 4px;
-  background: linear-gradient(90deg, #d32f2f, #ff6b6b);
+  background: linear-gradient(90deg, #5dade2, #1976d2);
   margin: 1rem auto 0;
   border-radius: 2px;
 }
@@ -69,7 +69,7 @@
   top: 0;
   bottom: 0;
   width: 2px;
-  background: linear-gradient(180deg, #d32f2f 0%, transparent 100%);
+  background: linear-gradient(180deg, #5dade2 0%, transparent 100%);
 }
 
 .experience-item {
@@ -99,34 +99,34 @@
   position: absolute;
   width: 20px;
   height: 20px;
-  background: #d32f2f;
-  border: 4px solid rgba(15, 15, 15, 1);
+  background: #5dade2;
+  border: 4px solid rgba(248, 249, 250, 1);
   border-radius: 50%;
   left: 50%;
   transform: translateX(-50%);
   z-index: 10;
-  box-shadow: 0 0 0 8px rgba(211, 47, 47, 0.2);
+  box-shadow: 0 0 0 8px rgba(93, 173, 226, 0.2);
 }
 
 .exp-marker svg {
-  color: #d32f2f;
+  color: #5dade2;
   font-size: 1.5rem;
   position: relative;
   z-index: 11;
 }
 
 .exp-content {
-  background: rgba(211, 47, 47, 0.05);
+  background: rgba(93, 173, 226, 0.05);
   padding: 2rem;
   border-radius: 10px;
-  border-left: 4px solid #d32f2f;
+  border-left: 4px solid #5dade2;
   transition: all 0.3s ease;
 }
 
 .exp-content:hover {
-  background: rgba(211, 47, 47, 0.1);
+  background: rgba(93, 173, 226, 0.1);
   transform: translateY(-5px);
-  box-shadow: 0 8px 20px rgba(211, 47, 47, 0.2);
+  box-shadow: 0 8px 20px rgba(93, 173, 226, 0.2);
 }
 
 .exp-header {
@@ -137,19 +137,19 @@
 }
 
 .exp-header h3 {
-  color: #d32f2f;
+  color: #5dade2;
   font-size: 1.3rem;
   margin-bottom: 0.3rem;
 }
 
 .company {
-  color: #aaa;
+  color: #666;
   font-size: 0.95rem;
 }
 
 .period {
-  background: rgba(211, 47, 47, 0.2);
-  color: #d32f2f;
+  background: rgba(93, 173, 226, 0.2);
+  color: #5dade2;
   padding: 0.5rem 1rem;
   border-radius: 5px;
   font-size: 0.85rem;
@@ -158,7 +158,7 @@
 }
 
 .location {
-  color: #999;
+  color: #666;
   font-size: 0.9rem;
   margin-bottom: 1rem;
 }
@@ -169,7 +169,7 @@
 }
 
 .highlights li {
-  color: #bbb;
+  color: #555;
   padding: 0.5rem 0;
   padding-left: 1.5rem;
   position: relative;
@@ -181,7 +181,7 @@
   content: '▸';
   position: absolute;
   left: 0;
-  color: #d32f2f;
+  color: #5dade2;
   font-weight: bold;
 }
 

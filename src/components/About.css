@@ -1,6 +1,6 @@
 .about {
   padding: 80px 0;
-  background: linear-gradient(135deg, rgba(20, 20, 20, 1) 0%, rgba(30, 30, 30, 0.8) 100%);
+  background: linear-gradient(135deg, rgba(248, 249, 250, 1) 0%, rgba(232, 236, 241, 0.8) 100%);
   position: relative;
   overflow: hidden;
 }
@@ -12,7 +12,7 @@
   right: -100px;
   width: 300px;
   height: 300px;
-  background: radial-gradient(circle, rgba(211, 47, 47, 0.1) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(93, 173, 226, 0.1) 0%, transparent 70%);
   border-radius: 50%;
   animation: pulse 8s ease-in-out infinite;
 }
@@ -24,7 +24,7 @@
   left: -150px;
   width: 400px;
   height: 400px;
-  background: radial-gradient(circle, rgba(255, 107, 107, 0.08) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(25, 118, 210, 0.08) 0%, transparent 70%);
   border-radius: 50%;
   animation: pulse 10s ease-in-out infinite;
 }
@@ -53,7 +53,7 @@
   display: block;
   width: 80px;
   height: 4px;
-  background: linear-gradient(90deg, #d32f2f, #ff6b6b);
+  background: linear-gradient(90deg, #5dade2, #1976d2);
   margin: 1rem auto 0;
   border-radius: 2px;
 }
@@ -68,7 +68,7 @@
 .about-intro {
   font-size: 1.1rem;
   line-height: 1.8;
-  color: #bbb;
+  color: #555;
   margin-bottom: 2rem;
 }
 
@@ -80,27 +80,27 @@
 }
 
 .stat {
-  background: rgba(211, 47, 47, 0.1);
+  background: rgba(93, 173, 226, 0.1);
   padding: 2rem;
   border-radius: 10px;
-  border-left: 4px solid #d32f2f;
+  border-left: 4px solid #5dade2;
   text-align: center;
   transition: all 0.3s ease;
 }
 
 .stat:hover {
   transform: translateY(-5px);
-  box-shadow: 0 8px 20px rgba(211, 47, 47, 0.2);
+  box-shadow: 0 8px 20px rgba(93, 173, 226, 0.2);
 }
 
 .stat h3 {
   font-size: 2.5rem;
-  color: #d32f2f;
+  color: #5dade2;
   margin-bottom: 0.5rem;
 }
 
 .stat p {
-  color: #999;
+  color: #666;
   font-size: 0.95rem;
 }
 
@@ -111,16 +111,16 @@
 }
 
 .education-item {
-  background: rgba(211, 47, 47, 0.05);
+  background: rgba(93, 173, 226, 0.05);
   padding: 1.5rem;
   margin-bottom: 1.5rem;
   border-radius: 8px;
-  border-left: 3px solid #d32f2f;
+  border-left: 3px solid #5dade2;
   transition: all 0.3s ease;
 }
 
 .education-item:hover {
-  background: rgba(211, 47, 47, 0.1);
+  background: rgba(93, 173, 226, 0.1);
 }
 
 .edu-header {
@@ -132,27 +132,27 @@
 }
 
 .edu-header h4 {
-  color: #d32f2f;
+  color: #5dade2;
   font-size: 1.1rem;
 }
 
 .date {
-  background: rgba(211, 47, 47, 0.2);
+  background: rgba(93, 173, 226, 0.2);
   padding: 0.3rem 0.8rem;
   border-radius: 3px;
   font-size: 0.85rem;
-  color: #d32f2f;
+  color: #5dade2;
   white-space: nowrap;
 }
 
 .education-item p {
-  color: #aaa;
+  color: #666;
   font-size: 0.95rem;
   margin: 0.5rem 0;
 }
 
 .gpa {
-  color: #d32f2f;
+  color: #5dade2;
   font-weight: 600;
 }
 

@@ -6,8 +6,8 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
-  color: #fff;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e8ecf1 100%);
+  color: #2d3436;
   overflow-x: hidden;
 }
 
@@ -20,16 +20,16 @@ html {
 }
 
 ::-webkit-scrollbar-track {
-  background: #1a1a1a;
+  background: #e8ecf1;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #d32f2f;
+  background: #5dade2;
   border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #ff6b6b;
+  background: #1976d2;
 }
 
 .container {

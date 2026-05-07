@@ -1,6 +1,6 @@
 .footer {
-  background: linear-gradient(135deg, rgba(10, 10, 10, 1) 0%, rgba(20, 20, 20, 0.9) 100%);
-  border-top: 3px solid #d32f2f;
+  background: linear-gradient(135deg, rgba(248, 249, 250, 1) 0%, rgba(232, 236, 241, 0.9) 100%);
+  border-top: 3px solid #5dade2;
   padding: 3rem 0 1rem;
 }
 
@@ -10,24 +10,24 @@
   gap: 2rem;
   margin-bottom: 2rem;
   padding-bottom: 2rem;
-  border-bottom: 1px solid rgba(211, 47, 47, 0.2);
+  border-bottom: 1px solid rgba(93, 173, 226, 0.2);
 }
 
 .footer-section h3 {
-  color: #d32f2f;
+  color: #5dade2;
   font-size: 1.3rem;
   margin-bottom: 0.8rem;
 }
 
 .footer-section h4 {
-  color: #fff;
+  color: #2d3436;
   font-size: 1rem;
   margin-bottom: 1rem;
   font-weight: 600;
 }
 
 .footer-section p {
-  color: #aaa;
+  color: #666;
   line-height: 1.6;
   font-size: 0.95rem;
 }
@@ -42,13 +42,13 @@
 }
 
 .footer-section a {
-  color: #aaa;
+  color: #666;
   text-decoration: none;
   transition: all 0.3s ease;
 }
 
 .footer-section a:hover {
-  color: #d32f2f;
+  color: #5dade2;
   transform: translateX(5px);
 }
 
@@ -60,19 +60,19 @@
 .footer-socials a {
   width: 40px;
   height: 40px;
-  background: rgba(211, 47, 47, 0.1);
-  border: 2px solid #d32f2f;
+  background: rgba(93, 173, 226, 0.1);
+  border: 2px solid #5dade2;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #d32f2f;
+  color: #5dade2;
   font-size: 1rem;
   transition: all 0.3s ease;
 }
 
 .footer-socials a:hover {
-  background: #d32f2f;
+  background: #5dade2;
   color: white;
   transform: translateY(-3px);
 }
@@ -91,7 +91,7 @@
 .footer-divider {
   width: 60px;
   height: 2px;
-  background: linear-gradient(90deg, transparent, #d32f2f, transparent);
+  background: linear-gradient(90deg, transparent, #5dade2, transparent);
   margin: 0.8rem auto;
 }
 
