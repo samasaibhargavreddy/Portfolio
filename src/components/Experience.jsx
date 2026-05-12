@@ -20,7 +20,7 @@ const experiences = [
     ]
   },
   {
-    title: 'Graduate Research Assistant(Application Development)',
+    title: 'Graduate Research Assistant(Web Development)',
     company: 'Wilmington University',
     location: 'New Castle, DE, United States',
     period: 'Aug 2023 - May 2024',
@@ -28,7 +28,7 @@ const experiences = [
     ]
   },
   {
-    title: 'Application Developer',
+    title: 'Web Developer',
     company: 'FuGenx Technologies',
     location: 'Bangalore, KA, India',
     period: 'Jul 2022 - Aug 2023',
