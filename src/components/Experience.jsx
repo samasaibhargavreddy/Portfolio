@@ -15,7 +15,7 @@ const experiences = [
     title: 'Web User Interface Developer',
     company: 'Northern Trust Bank',
     location: 'Chicago, Illinois, United States',
-    period: 'May 2024 - Dec 2025',
+    period: 'Aug 2024 - Dec 2025',
     highlights: [
     ]
   },
