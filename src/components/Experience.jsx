@@ -12,7 +12,7 @@ const experiences = [
     ]
   },
   {
-    title: 'Full Stack Engineer',
+    title: 'UI Engineer INTERN',
     company: 'Northern Trust Bank',
     location: 'Chicago, Illinois, United States',
     period: 'May 2024 - Dec 2024',
