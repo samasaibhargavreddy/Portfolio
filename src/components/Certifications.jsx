@@ -4,12 +4,6 @@ import './Certifications.css'
 
 const certifications = [
   {
-    title: 'Cross-platform apps with Angular',
-    issuer: 'Google for Dev',
-    icon: FaGoogle,
-    description: 'Professional certification in building cross-platform applications using Angular framework'
-  },
-  {
     title: 'React JS Certified Developer',
     issuer: 'Great Learning',
     icon: 'great-learning.svg',
