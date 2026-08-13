@@ -4,7 +4,7 @@ import './Experience.css'
 
 const experiences = [
   {
-    title: 'Frontend Developer',
+    title: 'Full Stack Developer',
     company: 'CBRE',
     location: 'Dallas, TX, United States',
     period: 'Dec 2025 - Present',
@@ -12,7 +12,7 @@ const experiences = [
     ]
   },
   {
-    title: 'Web User Interface Developer',
+    title: 'Full Stack Developer',
     company: 'Northern Trust Bank',
     location: 'Chicago, Illinois, United States',
     period: 'Aug 2024 - Dec 2025',
@@ -20,7 +20,7 @@ const experiences = [
     ]
   },
   {
-    title: 'Graduate Research Assistant(Web Development)',
+    title: 'Full Stack Developer',
     company: 'Wilmington University',
     location: 'New Castle, DE, United States',
     period: 'Aug 2023 - May 2024',
@@ -28,7 +28,7 @@ const experiences = [
     ]
   },
   {
-    title: 'Web Developer',
+    title: 'Full Stack Developer',
     company: 'FuGenx Technologies',
     location: 'Bangalore, KA, India',
     period: 'Jul 2022 - Aug 2023',

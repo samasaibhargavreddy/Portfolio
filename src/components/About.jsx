@@ -9,7 +9,7 @@ export default function About() {
         <div className="about-content">
           <div className="about-text">
                         <p className="about-intro">
-              Innovative Frontend Developer specializing in building scalable, responsive, and high performance web applications using React, Angular, TypeScript, JavaScript, HTML5, and CSS3. Experienced in developing modern user interfaces, integrating REST APIs, optimizing application performance, and creating seamless user experiences with cloud-native and component-based architectures. Skilled in frontend best practices, accessibility, responsive design, and modern development tools across enterprise level applications.
+              Innovative Full Stack Developer specializing in building scalable, responsive, and high performance web applications using React, Angular, TypeScript, JavaScript, HTML5, and CSS3. Experienced in developing modern user interfaces, integrating REST APIs, optimizing application performance, and creating seamless user experiences with cloud-native and component-based architectures. Skilled in frontend best practices, accessibility, responsive design, and modern development tools across enterprise level applications.
             </p>
             <div className="about-stats">
               <div className="stat">

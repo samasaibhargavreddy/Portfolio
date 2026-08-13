@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="footer-content">
           <div className="footer-section">
             <h3>Sai Bhargav Reddy Sama</h3>
-            <p>Frontend Developer</p>
+            <p>Full Stack Developer</p>
           </div>
           
           <div className="footer-section">

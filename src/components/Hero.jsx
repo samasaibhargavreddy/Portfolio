@@ -46,7 +46,7 @@ export default function Hero() {
             <h1 className="hero-title">
               <span className="red-accent">SAI BHARGAV REDDY</span>
               <br />
-              <span className="hero-subtitle">Frontend Developer</span>
+              <span className="hero-subtitle">Full Stack Developer</span>
             </h1>
             <p className="hero-description">
               <strong>Building the bridge between creativity and technology through intelligent code</strong>
