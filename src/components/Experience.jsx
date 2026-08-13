@@ -15,15 +15,7 @@ const experiences = [
     title: 'Full Stack Engineer',
     company: 'Northern Trust Bank',
     location: 'Chicago, Illinois, United States',
-    period: 'Aug 2024 - Dec 2025',
-    highlights: [
-    ]
-  },
-  {
-    title: 'Full Stack Engineer',
-    company: 'Wilmington University',
-    location: 'New Castle, DE, United States',
-    period: 'Aug 2023 - May 2024',
+    period: 'May 2024 - Dec 2024',
     highlights: [
     ]
   },
