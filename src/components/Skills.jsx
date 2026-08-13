@@ -4,23 +4,39 @@ import './Skills.css'
 const skillsData = [
   {
     category: 'Frontend Technologies',
-    skills: ['React.js', 'Angular', 'Vue.js', 'HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'Bootstrap', 'Tailwind CSS']
+    skills: ['React.js', 'Next.js', 'Angular', 'HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'Redux', 'Redux Toolkit', 'React Router', 'TanStack Query', 'Material-UI', 'Tailwind CSS', 'Sass', 'Webpack', 'Bootstrap']
   },
   {
     category: 'Programming Languages',
-    skills: [ 'JavaScript', 'TypeScript','C++', 'Java', 'SQL', 'Python']
+    skills: ['JavaScript', 'TypeScript', 'Java', 'Python', 'SQL', 'HTML5', 'CSS3', 'C++']
+  },
+  {
+    category: 'Backend Technologies',
+    skills: ['Node.js', 'Express', 'Java', 'Spring Boot', 'Spring JPA', 'Python', 'Microservices']
   },
   {
     category: 'Databases',
-    skills: ['MySQL', 'PostgreSQL', 'MongoDB', 'Oracle DB', 'DynamoDB', 'Cassandra', 'Redis']
+    skills: ['MySQL', 'PostgreSQL', 'MongoDB', 'Redis', 'Snowflake', 'Apache Druid', 'Oracle DB', 'DynamoDB', 'Cassandra']
   },
   {
     category: 'Cloud & DevOps',
-    skills: ['AWS', 'GCP', 'Azure', 'Docker', 'Kubernetes', 'Jenkins', 'Terraform', 'Ansible']
+    skills: ['AWS (EC2, S3, Lambda, IAM, CloudWatch)', 'GCP', 'Azure', 'Docker', 'Kubernetes', 'Jenkins', 'GitHub Actions', 'Terraform', 'Ansible']
   },
   {
-    category: 'Tools & Methodologies',
-    skills: ['Git', 'GitHub', 'GitLab', 'Jira', 'Maven', 'Gradle', 'Agile', 'Scrum']
+    category: 'Testing & Tools',
+    skills: ['Jest', 'React Testing Library', 'Cypress', 'Playwright', 'JUnit', 'Mockito', 'Git', 'GitHub', 'NPM', 'Maven', 'Gradle', 'Jira', 'Confluence']
+  },
+  {
+    category: 'UI/UX & Design',
+    skills: ['Responsive Web Design', 'Reusable Component Architecture', 'Design Systems', 'Figma', 'Wireframing', 'Prototyping', 'State Management']
+  },
+  {
+    category: 'Data Visualization',
+    skills: ['D3.js', 'Chart.js', 'Interactive Dashboards', 'Data-Driven Interfaces', 'JSON']
+  },
+  {
+    category: 'Development Practices',
+    skills: ['Agile/Scrum', 'SDLC', 'Code Reviews', 'CI/CD', 'Accessibility Testing', 'Performance Optimization', 'Technical Documentation']
   }
 ]
 
