@@ -14,6 +14,12 @@ const certifications = [
     issuer: 'Great Learning',
     icon: 'great-learning.svg',
     description: 'Certification in React.js development, covering component-based architecture, state management, and frontend best practices'
+  },
+  {
+    title: 'AWS Certified Developer',
+    issuer: 'Amazon Web Services',
+    icon: FaAward,
+    description: 'Certification in AWS cloud development, demonstrating expertise in building, deploying, and maintaining AWS applications'
   }
 ]
 
