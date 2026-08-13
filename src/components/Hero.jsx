@@ -58,7 +58,7 @@ export default function Hero() {
               </div>
               <div className="info-item">
                 <FaPhone className="info-icon" />
-                <span>+1 (302) 607-3319</span>
+                <span>+1 (816) 723-2369</span>
               </div>
               <div className="info-item">
                 <FaEnvelope className="info-icon" />
