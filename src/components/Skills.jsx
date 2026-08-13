@@ -16,7 +16,7 @@ const skillsData = [
   },
   {
     category: 'Databases',
-    skills: ['MySQL', 'PostgreSQL', 'MongoDB', 'Redis', 'Snowflake', 'Apache Druid', 'Oracle DB', 'DynamoDB', 'Cassandra']
+    skills: ['MySQL', 'PostgreSQL', 'MongoDB', 'Redis', 'Snowflake', 'Oracle DB', 'DynamoDB', 'Cassandra']
   },
   {
     category: 'Cloud & DevOps',
