@@ -36,13 +36,6 @@ export default function About() {
               <p>Wilmington University, DE, USA</p>
               <p className="gpa">GPA: 3.7</p>
             </div>
-            <div className="education-item">
-              <div className="edu-header">
-                <h4>Bachelor of Business Administration</h4>
-                <span className="date">May 2019 - Jul 2022</span>
-              </div>
-              <p>Osmania University, Hyderabad, India</p>
-            </div>
           </div>
         </div>
       </div>

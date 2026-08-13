@@ -20,6 +20,12 @@ const certifications = [
     issuer: 'Amazon Web Services',
     icon: FaAward,
     description: 'Certification in AWS cloud development, demonstrating expertise in building, deploying, and maintaining AWS applications'
+  },
+  {
+    title: 'Web Applications Using Microservices with Kubernetes',
+    issuer: 'Google for Developers',
+    icon: FaGoogle,
+    description: 'Certification in building web applications using microservices architecture with Kubernetes containerization and orchestration'
   }
 ]
 
