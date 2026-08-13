@@ -12,7 +12,15 @@ const experiences = [
     ]
   },
   {
-    title: 'UI Engineer INTERN',
+    title: 'Full Stack Engineer',
+    company: 'Northern Trust Bank',
+    location: 'Chicago, Illinois, United States',
+    period: 'Feb 2025 - Dec 2025',
+    highlights: [
+    ]
+  },
+  {
+    title: 'Full Stack Engineer INTERN',
     company: 'Northern Trust Bank',
     location: 'Chicago, Illinois, United States',
     period: 'May 2024 - Dec 2024',
