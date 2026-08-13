@@ -39,7 +39,7 @@ export default function Contact() {
                 </div>
                 <div className="contact-text">
                   <h4>Phone</h4>
-                  <p><a href="tel:+1-302-607-3319">+1 (302) 607-3319</a></p>
+                  <p><a href="tel:+1-816-723-2369">+1 (816) 723-2369</a></p>
                 </div>
               </div>
 
